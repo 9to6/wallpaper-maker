@@ -5,32 +5,34 @@
   Created by Teukgeon Kwon on 2017. 9. 8..
   Copyright © 2017년 Teukgeon Kwon. All rights reserved.
 */
-"InformationViewTitle" = "Information";
+"InformationViewTitle" = "Thông tin";
 "DeveloperComment" = "If you have any question or suggestion, please feel free to contact";
+"DeveloperComment" = "Nếu bạn có câu hỏi hay đề nghị nào, hãy liên hệ chúng tôi";
 "DeveloperEmail" = "cs@uniqbuild.co.kr";
-"DeveloperInfo" = "Developer Info";
-"VersionInfo" = "Version information";
-"OtherApps" = "Other apps";
-"SeeOtherApps" = "See other apps";
-"Usage" = "Usage";
-"CheckUsage" = "I want to read";
+"DeveloperInfo" = "Thông tin nhà phát triển";
+"VersionInfo" = "Thông tin phiên bản";
+"OtherApps" = "Các ứng dụng khác";
+"SeeOtherApps" = "Xem các ứng dụng khác";
+"Usage" = "Sử dụng";
+"CheckUsage" = "Hướng dẫn sử dụng";
 
-"SaveImageDoneAlert" = "Saved image. Please check your album.";
-"MovePhotoAppAlertTitle" = "Show photo";
-"MovePhotoAppAlertBody" = "Do you wanna move to the Photo application now?";
-"NO" = "No";
-"YES" = "Yes";
-"Alert" = "Alert";
-"PermissionPhotoDenyAlertTitle" = "Need Photos Access";
-"PermissionPhotoDenyAlertDesc" = "Photos access is required to make full use of this app.";
-"PermissionCameraDenyAlertTitle" = "Need Camera Access";
-"PermissionCameraDenyAlertDesc" = "Camera access is required to make full use of this app.";
+"SaveImageDoneAlert" = "Lưu ảnh. Hãy kiểm tra lại trong album.";
+"MovePhotoAppAlertTitle" = "Hiển thị ảnh";
+"MovePhotoAppAlertBody" = "Bạn có muốn di chuyển đến ứng dụng Hình ảnh ngay lúc này?";
 
-"Instruction-desc-01" = "Check the shortcut menu bar after running the app.";
-"Instruction-desc-02" = "Touch the picture icon on the top of the menu button.";
-"Instruction-desc-03" = "Select images you want as wallpaper. Up to 4 you can select images.";
-"Instruction-desc-04" = "If you want to adjust the margins, touch the menu button and touch the left icon.";
-"Instruction-desc-05" = "Arrage images to the form you want as zoom in and out.";
-"Instruction-desc-06" = "Touch the Preview button in the upper right corner and apply it to your background before saving.";
-"Instruction-desc-07" = "Touch Save icon at the bottom of the menu button and save a background image.";
-"Instruction-desc-08" = "After saving, select the Use as Wallpaper in the Photo application and zoom out the screen once.";
+"NO" = "Không";
+"YES" = "Có";
+"Alert" = "Cảnh báo";
+"PermissionPhotoDenyAlertTitle" = "Cần quyền truy cập ứng dụng Hình ảnh";
+"PermissionPhotoDenyAlertDesc" = "Quyền truy cập ứng dụng Hình ảnh cần được cấp phát để sử dụng đầy đủ các chức năng của ứng dụng này.";
+"PermissionCameraDenyAlertTitle" = "Cần quyền truy cập camera";
+"PermissionCameraDenyAlertDesc" = "Quyền truy cập camera cần được cấp phát để sử dụng đầy đủ các chức năng của ứng dụng này";
+
+"Instruction-desc-01" = "Nhấn vào biểu tượng menu sau khi mở ứng dụng";
+"Instruction-desc-02" = "Nhấn vào biểu tượng hình ảnh ở menu phía trên";
+"Instruction-desc-03" = "Lựa chọn những hình ảnh bạn muốn trở thành hình nền, hỗ trợ tối đa 4 hình một lần.";
+"Instruction-desc-04" = "Nếu bạn muốn thay đổi lề, nhấn nút menu sau đó nhấn biểu tượng bên trái.";
+"Instruction-desc-05" = "Sắp đặt và thay đổi kích cỡ hình ảnh theo ý của bạn.";
+"Instruction-desc-06" = "Nhấn nút Xem thử ở góc trên bên phải để xem hình nền trước khi lưu.";
+"Instruction-desc-07" = "Nhấn nút Lưu ở góc dưới của nút menu để lưu lại ảnh vừa tạo.";
+"Instruction-desc-08" = "Sau khi lưu, mở ứng dụng Hình ảnh, lựa chọn hình ảnh mới lưu và chọn 'Sử dụng làm hình nền'.";

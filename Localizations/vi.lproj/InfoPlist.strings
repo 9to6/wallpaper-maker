@@ -6,6 +6,6 @@
   Copyright © 2018년 Teukgeon Kwon. All rights reserved.
 */
 "CFBundleDisplayName" = "Surisuri";
-"CFBundleName" = "Surisuri - Wallpaper Maker";
-"NSPhotoLibraryUsageDescription" = "This allows us to use your photos to provide you certain features like bringing your photo to create new image, saving it.";
-"NSCameraUsageDescription" = "This allows us to access your camera roll to take your photo and save ones you've taken with the app.";
+"CFBundleName" = "Surisuri - Chương trình tạo ảnh nền";
+"NSPhotoLibraryUsageDescription" = "Cho phép ứng dụng truy cập các hình ảnh trong máy của bạn, sử dụng các hiệu ứng để tạo ra những hình ảnh mới và lưu trữ lại";
+"NSCameraUsageDescription" = "Cho phép ứng dụng sử dụng camera trong máy bạn để chụp lại các hình ảnh";
