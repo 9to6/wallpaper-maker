@@ -1,0 +1,30 @@
+
+/* Class = "UIViewController"; title = "Select Photo"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "사진 선택";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EQw-nC-qPz"; */
+"EQw-nC-qPz.normalTitle" = "취소";
+
+/* Class = "UISegmentedControl"; IZr-2h-Z0Y.segmentTitles[0] = "Stil"; ObjectID = "IZr-2h-Z0Y"; */
+"IZr-2h-Z0Y.segmentTitles[0]" = "스틸";
+
+/* Class = "UISegmentedControl"; IZr-2h-Z0Y.segmentTitles[1] = "Perspective"; ObjectID = "IZr-2h-Z0Y"; */
+"IZr-2h-Z0Y.segmentTitles[1]" = "시점이동";
+
+/* Class = "UILabel"; text = "Adjust Space"; ObjectID = "JJU-FV-Ywn"; */
+"JJU-FV-Ywn.text" = "여백 조절";
+
+/* Class = "UILabel"; text = "Move and Scale"; ObjectID = "Jbm-fl-Tn8"; */
+"Jbm-fl-Tn8.text" = "이동 및 크기";
+
+/* Class = "UILabel"; text = "11:05"; ObjectID = "MVI-YI-uEU"; */
+"MVI-YI-uEU.text" = "11:05";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "g8a-V4-Xc6"; */
+"g8a-V4-Xc6.normalTitle" = "설정";
+
+/* Class = "UINavigationItem"; title = "Select Photo"; ObjectID = "lYH-jb-645"; */
+"lYH-jb-645.title" = "사진 선택";
+
+/* Class = "UILabel"; text = "Thursday, December 7"; ObjectID = "myk-bP-Oxa"; */
+"myk-bP-Oxa.text" = "6월22일 목요일";

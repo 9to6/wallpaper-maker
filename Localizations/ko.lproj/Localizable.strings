@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2017. 9. 8..
+  Copyright © 2017년 Teukgeon Kwon. All rights reserved.
+*/
+"InformationViewTitle" = "정보";
+"DeveloperComment" = "질문이나 건의사항 있으시면 하단 이메일로 연락주세요.";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "개발자 정보";
+"VersionInfo" = "버전 정보";
+"OtherApps" = "개발자의 다른 앱";
+"SeeOtherApps" = "다른 앱 보기";
+"Usage" = "사용법";
+"CheckUsage" = "읽고 싶어요.";
+
+"SaveImageDoneAlert" = "이미지 저장 완료. 사진 어플을 확인해주세요.";
+"MovePhotoAppAlertTitle" = "사진 앱보기";
+"MovePhotoAppAlertBody" = "바로 사진앱에서 완성된 배경을 확인하시겠습니까?";
+"NO" = "아니오";
+"YES" = "네";
+"Alert" = "경고";
+"PermissionPhotoDenyAlertTitle"= "사진 액세스 필요";
+"PermissionPhotoDenyAlertDesc"= "이 응용 프로그램을 최대한 활용하려면 사진 액세스가 필요합니다.";
+"PermissionCameraDenyAlertTitle"= "카메라 액세스 필요";
+"PermissionCameraDenyAlertDesc"= "이 응용 프로그램을 최대한 활용하려면 카메라 액세스가 필요합니다.";
+
+"Instruction-desc-01" = "앱 실행후 오른쪽 하단 메뉴 버튼을 확인합니다.";
+"Instruction-desc-02" = "메뉴 버튼의 상단 사진 아이콘을 선택 합니다.";
+"Instruction-desc-03" = "배경화면으로 원하는 이미지를 선택합니다. 현재 최대 4개까지 지원됩니다.";
+"Instruction-desc-04" = "여백을 조절하고 싶으시면 메뉴 버튼 선택 후 좌측 아이콘을 선택합니다.";
+"Instruction-desc-05" = "이미지를 확대 및 축소해서 원하는 형태로 구성합니다.";
+"Instruction-desc-06" = "우측상단의 미리보기 버튼을 선택해서 저장전에 배경화면에 적용해 볼 수 있습니다.";
+"Instruction-desc-07" = "메뉴 버튼의 하단, 저장하기 아이콘을 클릭하면 이미지가 저장됩니다.";
+"Instruction-desc-08" = "저장 후 사진 어플에서 배경화면 지정 선택 후, 화면을 한번 축소 해주고 지정합니다.";

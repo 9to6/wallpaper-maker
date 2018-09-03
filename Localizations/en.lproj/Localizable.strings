@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2017. 9. 8..
+  Copyright © 2017년 Teukgeon Kwon. All rights reserved.
+*/
+"InformationViewTitle" = "Information";
+"DeveloperComment" = "If you have any question or suggestion, please feel free to contact";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "Developer Info";
+"VersionInfo" = "Version information";
+"OtherApps" = "Other apps";
+"Usage" = "Usage";
+"CheckUsage" = "I want to read";
+
+"SeeOtherApps" = "See other apps";
+"SaveImageDoneAlert" = "Saved image. Please check your album.";
+"MovePhotoAppAlertTitle" = "Show photo";
+"MovePhotoAppAlertBody" = "Do you wanna move to the Photo application now?";
+"NO" = "No";
+"YES" = "Yes";
+"Alert" = "Alert";
+"PermissionPhotoDenyAlertTitle" = "Need Photos Access";
+"PermissionPhotoDenyAlertDesc" = "Photos access is required to make full use of this app.";
+"PermissionCameraDenyAlertTitle" = "Need Camera Access";
+"PermissionCameraDenyAlertDesc" = "Camera access is required to make full use of this app.";
+
+"Instruction-desc-01" = "Check the shortcut menu bar after running the app.";
+"Instruction-desc-02" = "Touch the picture icon on the top of the menu button.";
+"Instruction-desc-03" = "Select images you want as wallpaper. Up to 4 you can select images.";
+"Instruction-desc-04" = "If you want to adjust the margins, touch the menu button and touch the left icon.";
+"Instruction-desc-05" = "Arrage images to the form you want as zoom in and out.";
+"Instruction-desc-06" = "Touch the Preview button in the upper right corner and apply it to your background before saving.";
+"Instruction-desc-07" = "Touch Save icon at the bottom of the menu button and save a background image.";
+"Instruction-desc-08" = "After saving, select the Use as Wallpaper in the Photo application and zoom out the screen once.";

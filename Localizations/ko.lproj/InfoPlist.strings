@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2018. 8. 25..
+  Copyright © 2018년 Teukgeon Kwon. All rights reserved.
+*/
+"CFBundleDisplayName" = "수리수리";
+"CFBundleName" = "수리수리 - 배경화면 만들기";
+"NSPhotoLibraryUsageDescription"= "이 기능을 사용하면 사진을 가져 와서 새로운 이미지를 만들고 저장하는 것과 같은 특정 기능을 제공하기 위해 사진을 사용할 수 있습니다.";
+"NSCameraUsageDescription"= "이렇게하면 카메라 롤에 액세스하여 사진을 찍은 다음 앱으로 찍은 사진을 저장할 수 있습니다.";

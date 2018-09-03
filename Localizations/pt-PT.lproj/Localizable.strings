@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2017. 9. 8..
+  Copyright © 2017년 Teukgeon Kwon. All rights reserved.
+*/
+"InformationViewTitle" = "Informação";
+"DeveloperComment" = "Se você tiver alguma dúvida ou sugestão, por favor sinta-se à vontade para entrar em contato com";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "Informações do desenvolvedor";
+"VersionInfo" = "Informação da versão";
+"OtherApps" = "Outros aplicativos";
+"SeeOtherApps" = "Veja outros aplicativos";
+"Usage" = "Uso";
+"CheckUsage" = "Eu quero ler";
+
+"SaveImageDoneAlert" = "Imagem salva. Por favor, verifique seu álbum.";
+"MovePhotoAppAlertTitle" = "Mostrar foto";
+"MovePhotoAppAlertBody" = "Deseja mudar para o aplicativo Foto agora?";
+"NO" = "Não";
+"YES" = "Sim";
+"Alert" = "Alerta";
+"PermissionPhotoDenyAlertTitle" = "Precisa de acesso às fotos";
+"PermissionPhotoDenyAlertDesc" = "É necessário ter acesso a fotos para aproveitar ao máximo este aplicativo.";
+"PermissionCameraDenyAlertTitle" = "Precisa de acesso à câmera";
+"PermissionCameraDenyAlertDesc" = "É necessário ter acesso à câmera para aproveitar ao máximo este aplicativo.";
+
+"Instruction-desc-01" = "Verifique a barra de menus de atalho depois de executar o aplicativo.";
+"Instruction-desc-02" = "Toque no ícone da imagem no topo do botão de menu.";
+"Instruction-desc-03" = "Selecione as imagens que deseja como papel de parede. Até 4 você pode selecionar imagens.";
+"Instruction-desc-04" = "Se você deseja ajustar as margens, toque no botão de menu e toque no ícone à esquerda.";
+"Instruction-desc-05" = "Arrume as imagens para o formulário que você deseja ampliar e reduzir.";
+"Instruction-desc-06" = "Toque no botão Visualizar no canto superior direito e aplique-o ao fundo antes de salvá-lo.";
+"Instruction-desc-07" = "Toque no ícone Salvar na parte inferior do botão de menu e salve uma imagem de fundo.";
+"Instruction-desc-08" = "Depois de salvar, selecione Usar como papel de parede no aplicativo Foto e reduza o zoom uma vez na tela.";

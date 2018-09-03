@@ -1,0 +1,36 @@
+/*
+  Localizable.strings
+  ContexteImageMaker
+
+  Créé par Teukgeon Kwon en 2017. 9. 8 ..
+  Copyright © 2017 년 Teukgeon Kwon. Tous les droits sont réservés.
+*/
+"InformationViewTitle" = "Information";
+"DeveloperComment" = "Si vous avez des questions ou des suggestions, n'hésitez pas à contacter";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "Info développeur";
+"VersionInfo" = "Informations sur la version";
+"OtherApps" = "Autres applications";
+"SeeOtherApps" = "Voir les autres applications";
+"Usage" = "Usage";
+"CheckUsage" = "Je veux lire";
+
+"SaveImageDoneAlert" = "Image enregistrée. Veuillez vérifier votre album.";
+"MovePhotoAppAlertTitle" = "Afficher la photo";
+"MovePhotoAppAlertBody" = "Voulez-vous passer à l’application Photo maintenant?";
+"NO" = "Non";
+"YES" = "Oui";
+"Alert" = "Alert";
+"PermissionPhotoDenyAlertTitle" = "Besoin d'un accès aux photos";
+"PermissionPhotoDenyAlertDesc" = "L'accès aux photos est requis pour utiliser pleinement cette application.";
+"PermissionCameraDenyAlertTitle" = "Besoin d'un accès à la caméra";
+"PermissionCameraDenyAlertDesc" = "L'accès à la caméra est nécessaire pour utiliser pleinement cette application.";
+
+"Instruction-desc-01" = "Vérifiez la barre de menus de raccourcis après avoir exécuté l'application.";
+"Instruction-desc-02" = "Touchez l'icône d'image en haut du bouton de menu.";
+"Instruction-desc-03" = "Sélectionnez les images de votre choix comme fond d'écran. Vous pouvez sélectionner jusqu'à 4 images.";
+"Instruction-desc-04" = "Si vous souhaitez ajuster les marges, appuyez sur le bouton Menu et touchez l'icône gauche.";
+"Instruction-desc-05" = "Arranger les images dans la forme que vous voulez en tant que zoom avant et arrière.";
+"Instruction-desc-06" = "Touchez le bouton Aperçu dans le coin supérieur droit et appliquez-le à votre arrière-plan avant de l'enregistrer.";
+"Instruction-desc-07" = "Appuyez sur l'icône Enregistrer en bas du bouton de menu et enregistrez une image d'arrière-plan.";
+"Instruction-desc-08" = "Après la sauvegarde, sélectionnez l’utilisation comme papier peint dans l’application Photo et effectuez un zoom arrière sur l’écran une fois.";

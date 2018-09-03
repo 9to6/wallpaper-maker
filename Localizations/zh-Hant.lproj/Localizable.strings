@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2017. 9. 8..
+  Copyright © 2017년 Teukgeon Kwon. All rights reserved.
+*/
+
+"InformationViewTitle"="信息";
+"DeveloperComment"="如果您有任何問題或建議，請隨時聯繫";
+"DeveloperEmail"="cs@uniqbuild.co.kr";
+"DeveloperInfo"="開發者信息";
+"VersionInfo"="版本信息";
+"OtherApps"="其他應用";
+"SeeOtherApps"="查看其他應用";
+"Usage"="用法";
+"CheckUsage"="我想讀";
+
+"SaveImageDoneAlert"="已保存的圖片。請檢查您的相冊。";
+"MovePhotoAppAlertTitle"="顯示照片";
+"MovePhotoAppAlertBody"="你想現在轉移到Photo應用程序嗎？";
+"NO"="否";
+"YES"="是";
+"Alert"="警報";
+"PermissionPhotoDenyAlertTitle" = "需要照片訪問";
+"PermissionPhotoDenyAlertDesc" = "需要照片訪問才能充分利用此應用。";
+"PermissionCameraDenyAlertTitle" = "需要相機訪問";
+"PermissionCameraDenyAlertDesc" = "需要相機訪問才能充分利用此應用。";
+
+"Instruction-desc-01"="運行應用程序後檢查快捷菜單欄。";
+"Instruction-desc-02"="觸摸菜單按鈕頂部的圖片圖標。";
+"Instruction-desc-03"="選擇你想要的圖像作為壁紙。最多4個你可以選擇圖像。";
+"Instruction-desc-04"="如果要調整邊距，請觸摸菜單按鈕並觸摸左側圖標。";
+"Instruction-desc-05"="Arrage圖像到你想放大和縮小的形式。";
+"Instruction-desc-06"="觸摸右上角的預覽按鈕，然後將其應用到您的背景中，然後再保存。";
+"Instruction-desc-07"="觸摸菜單按鈕底部的保存圖標並保存背景圖像。";
+"Instruction-desc-08"="保存後，在照片應用程序中選擇用作壁紙並縮小屏幕一次。";

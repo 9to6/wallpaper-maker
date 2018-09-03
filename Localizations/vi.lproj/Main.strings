@@ -1,0 +1,30 @@
+
+/* Class = "UIViewController"; title = "Select Photo"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Select Photo";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EQw-nC-qPz"; */
+"EQw-nC-qPz.normalTitle" = "Cancel";
+
+/* Class = "UISegmentedControl"; IZr-2h-Z0Y.segmentTitles[0] = "Stil"; ObjectID = "IZr-2h-Z0Y"; */
+"IZr-2h-Z0Y.segmentTitles[0]" = "Stil";
+
+/* Class = "UISegmentedControl"; IZr-2h-Z0Y.segmentTitles[1] = "Perspective"; ObjectID = "IZr-2h-Z0Y"; */
+"IZr-2h-Z0Y.segmentTitles[1]" = "Perspective";
+
+/* Class = "UILabel"; text = "Adjust Space"; ObjectID = "JJU-FV-Ywn"; */
+"JJU-FV-Ywn.text" = "Adjust Space";
+
+/* Class = "UILabel"; text = "Move and Scale"; ObjectID = "Jbm-fl-Tn8"; */
+"Jbm-fl-Tn8.text" = "Move and Scale";
+
+/* Class = "UILabel"; text = "11:05"; ObjectID = "MVI-YI-uEU"; */
+"MVI-YI-uEU.text" = "11:05";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "g8a-V4-Xc6"; */
+"g8a-V4-Xc6.normalTitle" = "Set";
+
+/* Class = "UINavigationItem"; title = "Select Photo"; ObjectID = "lYH-jb-645"; */
+"lYH-jb-645.title" = "Select Photo";
+
+/* Class = "UILabel"; text = "Thursday, December 7"; ObjectID = "myk-bP-Oxa"; */
+"myk-bP-Oxa.text" = "Thursday, December 7";

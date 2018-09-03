@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2017. 9. 8..
+  Copyright © 2017년 Teukgeon Kwon. All rights reserved.
+*/
+"InformationViewTitle" = "情報";
+"DeveloperComment" = "ご質問やご提案がありましたら、お気軽にご連絡ください";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "開発者情報";
+"VersionInfo" = "バージョン情報";
+"OtherApps" = "その他のアプリ";
+"SeeOtherApps" = "他のアプリを見る";
+"Usage" = "Usage";
+"CheckUsage" = "読みたい";
+
+"SaveImageDoneAlert" = "保存した画像。あなたのアルバムを確認してください。";
+"MovePhotoAppAlertTitle" = "写真を表示";
+"MovePhotoAppAlertBody" = "今Photoアプリケーションに移動しますか？";
+"NO" = "いいえ";
+"YES" = "はい";
+"Alert" = "Alert";
+"PermissionPhotoDenyAlertTitle" = "写真アクセスが必要です";
+"PermissionPhotoDenyAlertDesc" = "このアプリケーションをフルに活用するには、写真にアクセスする必要があります。";
+"PermissionCameraDenyAlertTitle" = "カメラアクセスが必要です。";
+"PermissionCameraDenyAlertDesc" = "このアプリを最大限に活用するには、カメラにアクセスする必要があります。";
+
+"Instruction-desc-01" = "アプリケーションの実行後にショートカットメニューバーを確認してください。";
+"Instruction-desc-02" = "メニューボタンの上部にある画像アイコンをタッチします。";
+"Instruction-desc-03" = "壁紙にしたい画像を選択してください。最大4つの画像を選択できます。";
+"Instruction-desc-04" = "余白を調整するには、メニューボタンをタッチして左のアイコンをタッチします。";
+"Instruction-desc-05" = "イメージをズームイン/ズームアウトしたい形にします。";
+"Instruction-desc-06" = "保存する前に、右上隅のプレビューボタンをタッチして背景に適用します。";
+"Instruction-desc-07" = "メニューボタンの下部にあるSaveアイコンをタッチして背景画像を保存します。";
+"Instruction-desc-08" = "保存した後、写真アプリケーションで壁紙として使用を選択し、画面を一度縮小します。";

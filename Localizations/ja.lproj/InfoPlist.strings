@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  BackgroundImageMaker
+
+  Created by Teukgeon Kwon on 2018. 8. 25..
+  Copyright © 2018년 Teukgeon Kwon. All rights reserved.
+*/
+"CFBundleDisplayName" = "Surisuri";
+"CFBundleName" = "Surisuri - Wallpaper Maker";
+"NSPhotoLibraryUsageDescription" = "これにより、写真を使用して新しい画像を作成して保存するなど、特定の機能を提供することができます。";
+"NSCameraUsageDescription" = "これにより、カメラロールにアクセスして写真を撮って、あなたがアプリで撮ったものを保存することができます。";

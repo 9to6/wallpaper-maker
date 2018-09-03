@@ -1,0 +1,36 @@
+/*
+  Localizable.strings
+  HintergrundbildMaker
+
+  Erstellt von Teukgeon Kwon am 2017. 9. 8 ..
+  Copyright © 2017 년 Teukgeon Kwon. Alle Rechte vorbehalten.
+*/
+"InformationViewTitle" = "Information";
+"DeveloperComment" = "Wenn Sie Fragen oder Anregungen haben, wenden Sie sich bitte an";
+"DeveloperEmail" = "cs@uniqbuild.co.kr";
+"DeveloperInfo" = "Entwicklerinfo";
+"VersionInfo" = "Versionsinformation";
+"OtherApps" = "Andere Apps";
+"SeeOtherApps" = "Siehe andere Apps";
+"Usage" = "Verwendung";
+"CheckUsage" = "Ich möchte lesen";
+
+"SaveImageDoneAlert" = "Gespeichertes Bild. Bitte überprüfen Sie Ihr Album.";
+"MovePhotoAppAlertTitle" = "Foto anzeigen";
+"MovePhotoAppAlertBody" = "Möchten Sie jetzt zur Fotoanwendung wechseln?";
+"NO" = "Nein";
+"YES" = "Ja";
+"Alert" = "Warnung";
+"PermissionPhotoDenyAlertTitle" = "Zugriff auf Fotos erforderlich";
+"PermissionPhotoDenyAlertDesc" = "Der Zugriff auf Fotos ist erforderlich, um diese App voll nutzen zu können.";
+"PermissionCameraDenyAlertTitle" = "Kamerazugriff erforderlich";
+"PermissionCameraDenyAlertDesc" = "Der Kamerazugriff ist erforderlich, um diese App voll nutzen zu können.";
+
+"Instruction-desc-01" = "Überprüfen Sie die Kontextmenüleiste nach dem Ausführen der App.";
+"Instruction-desc-02" = "Berühren Sie das Bildsymbol oben auf der Menüschaltfläche.";
+"Instruction-desc-03" = "Wählen Sie Bilder, die Sie als Hintergrundbild verwenden möchten. Bis zu 4 können Sie Bilder auswählen.";
+"Instruction-desc-04" = "Wenn Sie die Ränder anpassen möchten, tippen Sie auf die Menüschaltfläche und dann auf das linke Symbol.";
+"Instruction-desc-05" = "Ordnen Sie Bilder an die Form an, die Sie vergrößern oder verkleinern möchten.";
+"Instruction-desc-06" = "Tippen Sie auf die Schaltfläche Vorschau in der oberen rechten Ecke und wenden Sie sie vor dem Speichern auf Ihren Hintergrund an.";
+"Instruction-desc-07" = "Tippen Sie auf das Speichern-Symbol am unteren Rand der Menüschaltfläche und speichern Sie ein Hintergrundbild.";
+"Instruction-desc-08" = "Wählen Sie nach dem Speichern die Option Als Hintergrundbild in der Fotoanwendung verwenden und verkleinern Sie den Bildschirm einmal.";
