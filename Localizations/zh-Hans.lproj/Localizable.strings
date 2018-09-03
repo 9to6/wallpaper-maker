@@ -13,7 +13,7 @@
 "OtherApps" = "其他应用程序";
 "SeeOtherApps" = "查看其他应用程序";
 "Usage" = "用法";
-"CheckUsage" = "我想读";
+"CheckUsage" = "我想看看用法。";
 
 "SaveImageDoneAlert" = "保存的图像。请检查你的专辑。";
 "MovePhotoAppAlertTitle" = "显示照片";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "需要相机访问";
 "PermissionCameraDenyAlertDesc" = "需要相机访问才能充分利用此应用。";
 
-"Instruction-desc-01" = "运行应用程序后检查快捷菜单栏。";
+"Instruction-desc-01" = "运行应用程序后，请检查右下角的菜单图标。";
 "Instruction-desc-02" = "触摸菜单按钮顶部的图片图标。";
 "Instruction-desc-03" = "选择你想要的图片作为壁纸。最多4个你可以选择图像。";
 "Instruction-desc-04" = "如果要调整边距，请触摸菜单按钮并触摸左侧图标。";

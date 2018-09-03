@@ -13,7 +13,7 @@
 "OtherApps" = "Andere Apps";
 "SeeOtherApps" = "Siehe andere Apps";
 "Usage" = "Verwendung";
-"CheckUsage" = "Ich möchte lesen";
+"CheckUsage" = "Ich würde gerne Gebrauch sehen.";
 
 "SaveImageDoneAlert" = "Gespeichertes Bild. Bitte überprüfen Sie Ihr Album.";
 "MovePhotoAppAlertTitle" = "Foto anzeigen";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "Kamerazugriff erforderlich";
 "PermissionCameraDenyAlertDesc" = "Der Kamerazugriff ist erforderlich, um diese App voll nutzen zu können.";
 
-"Instruction-desc-01" = "Überprüfen Sie die Kontextmenüleiste nach dem Ausführen der App.";
+"Instruction-desc-01" = "Überprüfen Sie das Menüsymbol rechts unten, nachdem Sie die App ausgeführt haben.";
 "Instruction-desc-02" = "Berühren Sie das Bildsymbol oben auf der Menüschaltfläche.";
 "Instruction-desc-03" = "Wählen Sie Bilder, die Sie als Hintergrundbild verwenden möchten. Bis zu 4 können Sie Bilder auswählen.";
 "Instruction-desc-04" = "Wenn Sie die Ränder anpassen möchten, tippen Sie auf die Menüschaltfläche und dann auf das linke Symbol.";

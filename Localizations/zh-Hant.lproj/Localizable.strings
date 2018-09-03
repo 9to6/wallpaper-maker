@@ -14,7 +14,7 @@
 "OtherApps"="其他應用";
 "SeeOtherApps"="查看其他應用";
 "Usage"="用法";
-"CheckUsage"="我想讀";
+"CheckUsage"="我想看看用法。";
 
 "SaveImageDoneAlert"="已保存的圖片。請檢查您的相冊。";
 "MovePhotoAppAlertTitle"="顯示照片";
@@ -27,7 +27,7 @@
 "PermissionCameraDenyAlertTitle" = "需要相機訪問";
 "PermissionCameraDenyAlertDesc" = "需要相機訪問才能充分利用此應用。";
 
-"Instruction-desc-01"="運行應用程序後檢查快捷菜單欄。";
+"Instruction-desc-01"="運行應用程序後，請檢查右下角的菜單圖標。";
 "Instruction-desc-02"="觸摸菜單按鈕頂部的圖片圖標。";
 "Instruction-desc-03"="選擇你想要的圖像作為壁紙。最多4個你可以選擇圖像。";
 "Instruction-desc-04"="如果要調整邊距，請觸摸菜單按鈕並觸摸左側圖標。";

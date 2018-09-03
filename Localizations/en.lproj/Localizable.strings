@@ -12,7 +12,7 @@
 "VersionInfo" = "Version information";
 "OtherApps" = "Other apps";
 "Usage" = "Usage";
-"CheckUsage" = "I want to read";
+"CheckUsage" = "I'd like to see usage.";
 
 "SeeOtherApps" = "See other apps";
 "SaveImageDoneAlert" = "Saved image. Please check your album.";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "Need Camera Access";
 "PermissionCameraDenyAlertDesc" = "Camera access is required to make full use of this app.";
 
-"Instruction-desc-01" = "Check the shortcut menu bar after running the app.";
+"Instruction-desc-01" = "Check the menu icon at the right bottom after running the app.";
 "Instruction-desc-02" = "Touch the picture icon on the top of the menu button.";
 "Instruction-desc-03" = "Select images you want as wallpaper. Up to 4 you can select images.";
 "Instruction-desc-04" = "If you want to adjust the margins, touch the menu button and touch the left icon.";

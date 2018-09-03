@@ -13,7 +13,7 @@
 "OtherApps" = "Altre app";
 "SeeOtherApps" = "Vedi altre app";
 "Usage" = "Utilizzo";
-"CheckUsage" = "Voglio leggere";
+"CheckUsage" = "Mi piacerebbe vedere l'uso.";
 
 "SaveImageDoneAlert" = "Immagine salvata. Controlla il tuo album.";
 "MovePhotoAppAlertTitle" = "Mostra foto";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "Need Camera Access";
 "PermissionCameraDenyAlertDesc" = "È necessario l'accesso alla videocamera per sfruttare appieno questa app.";
 
-"Instruction-desc-01" = "Controlla la barra dei menu di scelta rapida dopo aver eseguito l'app.";
+"Instruction-desc-01" = "Controlla l'icona del menu in basso a destra dopo aver eseguito l'app.";
 "Instruction-desc-02" = "Tocca l'icona dell'immagine nella parte superiore del pulsante del menu.";
 "Instruction-desc-03" = "Seleziona le immagini che vuoi come sfondo. Fino a 4 puoi selezionare le immagini.";
 "Instruction-desc-04" = "Se desideri regolare i margini, tocca il pulsante menu e tocca l'icona a sinistra.";

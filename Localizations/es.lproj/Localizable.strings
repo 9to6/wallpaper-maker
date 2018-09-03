@@ -13,7 +13,7 @@
 "OtherApps" = "Otras aplicaciones";
 "SeeOtherApps" = "Ver otras aplicaciones";
 "Usage" = "Uso";
-"CheckUsage" = "Quiero leer";
+"CheckUsage" = "Me gustaría ver el uso.";
 
 "SaveImageDoneAlert" = "Imagen guardada. Verifique su álbum";
 "MovePhotoAppAlertTitle" = "Mostrar foto";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "Need Camera Access";
 "PermissionCameraDenyAlertDesc" = "Se requiere acceso a la cámara para hacer un uso completo de esta aplicación.";
 
-"Instruction-desc-01" = "Verifique la barra de menú de acceso directo después de ejecutar la aplicación.";
+"Instruction-desc-01" = "Compruebe el ícono de menú en la parte inferior derecha después de ejecutar la aplicación.";
 "Instruction-desc-02" = "Toque el ícono de imagen en la parte superior del botón de menú.";
 "Instruction-desc-03" = "Seleccione las imágenes que desee como fondo de pantalla. Hasta 4 puede seleccionar imágenes.";
 "Instruction-desc-04" = "Si desea ajustar los márgenes, toque el botón de menú y toque el icono de la izquierda.";

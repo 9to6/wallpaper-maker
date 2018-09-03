@@ -13,7 +13,7 @@
 "OtherApps" = "Autres applications";
 "SeeOtherApps" = "Voir les autres applications";
 "Usage" = "Usage";
-"CheckUsage" = "Je veux lire";
+"CheckUsage" = "J'aimerais voir l'utilisation.";
 
 "SaveImageDoneAlert" = "Image enregistrée. Veuillez vérifier votre album.";
 "MovePhotoAppAlertTitle" = "Afficher la photo";
@@ -26,7 +26,7 @@
 "PermissionCameraDenyAlertTitle" = "Besoin d'un accès à la caméra";
 "PermissionCameraDenyAlertDesc" = "L'accès à la caméra est nécessaire pour utiliser pleinement cette application.";
 
-"Instruction-desc-01" = "Vérifiez la barre de menus de raccourcis après avoir exécuté l'application.";
+"Instruction-desc-01" = "Vérifiez l'icône du menu en bas à droite après avoir exécuté l'application.";
 "Instruction-desc-02" = "Touchez l'icône d'image en haut du bouton de menu.";
 "Instruction-desc-03" = "Sélectionnez les images de votre choix comme fond d'écran. Vous pouvez sélectionner jusqu'à 4 images.";
 "Instruction-desc-04" = "Si vous souhaitez ajuster les marges, appuyez sur le bouton Menu et touchez l'icône gauche.";
